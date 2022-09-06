@@ -1,6 +1,6 @@
 
 </p>
-<h1 align="center">Simple WhatsApp Bot</h1>
+<h1 align="center">Raiden - Botz</h1>
 <p align="center">
 
 <div align="center"><img src="https://raw.githubusercontent.com/Iyann/Raiden-Botz/v3.0/gifs-de-auditoria-23.gif"></div>
@@ -67,7 +67,7 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > Untuk file session ada di raiden.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
 
 ## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL) 
+[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ITiCuritEfx60TOHTMFgkL) 
 **Markas Para Bot**
 
 ## Install for termux
@@ -80,15 +80,15 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/IyannKz/RTXZY-MD
-> cd RTXZY-MD
+> git clone  https://github.com/IyannKz/Raiden-Botz
+> cd Raiden-Botz
 > npm i
 > node index.js
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
-> cp -r RTXZY-MD $HOME
-> cd RTXZY-MD
+> cp -r Raiden-Botz $HOME
+> cd Raiden-Botz
 > npm i
 > node index.js
 ```
@@ -97,11 +97,11 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IyannKz/Raiden-Botz)
 
 ## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%BOTCAHX%RTXZY-MD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%IyannKz%Raiden-Botz)
 
 # get Session 
 > get session with scan qr in this module
@@ -125,8 +125,8 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/IyannKz/Raiden-Botz
+cd Raiden-Botz
 npm i
 npm start
 ```
@@ -233,8 +233,10 @@ conn.logger.level = 'debug'
  
  [`Radhin`](https://wa.me/6282373158947)
 
+ [`IyannKz`](https://wa.me/6285742344873)
+
 ##### Contributors
-<a href="https://github.com/BOTCAHX"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) 
+<a href="https://github.com/IyannKz"><img src="https://github.com/BOTCAHX.png?size=100" width="100" height="100"></a> | [![Alya Putri](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) 
 ---|---
 [Tio](https://github.com/BOTCAHX)  | [Alya putri](https://github.com/AlyaaXd)
 Creator | Creator |
