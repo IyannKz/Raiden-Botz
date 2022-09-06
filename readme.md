@@ -3,22 +3,22 @@
 <h1 align="center">Simple WhatsApp Bot</h1>
 <p align="center">
 
-<div align="center"><img src="https://raw.githubusercontent.com/BOTCAHX/RTXZY-MD/v3.0/gifs-de-auditoria-23.gif"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Iyann/Raiden-Botz/v3.0/gifs-de-auditoria-23.gif"></div>
 </p>
-<h1 align="center">Kasih Star Biar Semangat Recode Nya:v</h1>
+<h1 align="center">Nggak Kasih Star Error:v</h1>
 
 >
 >
 >
 </div>
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=RTXZY-MD&color=blue"></a>
+<a href="##"><img title="Multi Device" src="https://img.shields.io/static/v1?label=package&message=Raiden-Botz&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/BOTCAHX/RTXZY-MD"><img title="Author" src="https://img.shields.io/badge/Author-Team-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/IyannKz/Raiden-Botz"><img title="Author" src="https://img.shields.io/badge/Author-Team-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="https://botcahx-rest-api.herokuapp.com"><img title="mengapi" 
+<a href="https://botcahx-rest-api.herokuapp.com"><img title="FreeApi" 
 src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=orange"></a>
 <!--<div>https://botcahx-rest-api.herokuapp.com/</div>-->
 
