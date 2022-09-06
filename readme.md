@@ -5,7 +5,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/Iyann/Raiden-Botz/v3.0/gifs-de-auditoria-23.gif"></div>
 </p>
-<h1 align="center">Nggak Kasih Star Error:v</h1>
+<h1 align="center">Recode From: Rtxzy</h1>
 
 >
 >
@@ -24,19 +24,19 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 
   
 <a href="https://botcahx-rest-api.herokuapp.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbotcahx-rest-api.herokuapp.com%2Fhit-counter&count_bg=%23E20D0D&title_bg=%230C15DB&icon=heroku.svg&icon_color=%23E7E7E7&title=Hits+Today&edge_flat=false"/></a>
-<a href="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/RTXZY-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/RTXZY-MD"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BOTCAHX/RTXZY-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BOTCAHX/RTXZY-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BOTCAHX/RTXZY-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BOTCAHX/RTXZY-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/BOTCAHX/RTXZY-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BOTCAHX/RTXZY-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BOTCAHX/RTXZY-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BOTCAHX/RTXZY-MD?label=PullRequest&color=red&style=flat-square"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?style=flat-square&color=green"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/RTXZY-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=IyannKz/Raiden-Botz"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IyannKz/Raiden-Botz?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/IyannKz/Raiden-Botz?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/IyannKz/Raiden-Botz?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/IyannKz/Raiden-Botz?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/issues"><img title="Issues" src="https://img.shields.io/github/issues/IyannKz/Raiden-Botz?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/IyannKz/Raiden-Botz?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/IyannKz/Raiden-Botz?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/IyannKz/Raiden-Botz?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/IyannKz/Raiden-Botz/"><img title="Size" src="https://img.shields.io/github/repo-size/IyannKz/Raiden-Botz?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/BOTCAHX/RTXZY-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/IyannKz/Raiden-Botz/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 </p>
 
@@ -62,9 +62,9 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 
 >  Kalo Erorr apikey nya beli atau ganti sendiri aja ya 
 
-> Masih Tahap Pengembangan v.3.0
+> Masih Tahap Pengembangan v0.4.1
 
-> Untuk file session ada di sessiontxzy.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
+> Untuk file session ada di raiden.data.json, kalo mau run termux hapus terlebih dahulu file tersebut.
 
 ## Join Group Diskusi
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL) 
@@ -80,7 +80,7 @@ src="https://img.shields.io/static/v1?label=click for&message=FREE Apikey&color=
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/RTXZY-MD
+> git clone  https://github.com/IyannKz/RTXZY-MD
 > cd RTXZY-MD
 > npm i
 > node index.js
