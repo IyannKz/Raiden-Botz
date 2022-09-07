@@ -17,7 +17,7 @@ global.pulsa = '085742344873' // isi dengan nomor pulsa hp kalian
 global.gopay = '085742344873'
 
 //Name Bot & Grouplink//
-global.namebot = 'Raiden - Bot'
+global.namebot = 'Vermeil - Bot'
 global.gc = 'https://chat.whatsapp.com/ITiCuritEfx60TOHTMFgkL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -27,14 +27,14 @@ global.fotonya1 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
 global.fotonya2 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Raiden - Bot'
+global.wm = '© Vermeil - Bot'
 global.watermark = wm
-global.wm2 = '© Raiden - Bot'
-global.wm3 = '© Raiden - Bot'
-global.wm4 = '© Raiden - Bot'
+global.wm2 = '© Vermeil - Bot'
+global.wm3 = '© Vermeil - Bot'
+global.wm4 = '© Vermeil - Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
+global.media = 'https://telegra.ph/file/eb1ad2fdd2b96199e622d.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
