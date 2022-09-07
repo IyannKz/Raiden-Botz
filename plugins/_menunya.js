@@ -188,8 +188,19 @@ const ftroli = {
                           }
                         }
                       }
-await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/4b86f1fa3eb668132195b.jpg')).buffer(),  '*────────[ DASBOARD ]────────*', text, 'DONASI', '.donasi', m, {  
-
+await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/eb1ad2fdd2b96199e622d.jpg')).buffer(),  '*────────[ DASBOARD ]────────*', text, 'DONASI', '.donasi', m, {  
+      quoted: ftroli,  
+      contextInfo: { //forwardingScore: 99999, isForwarded: true,  
+          externalAdReply: {  showAdAttribution: false, 
+              title: 'Bot Wahatsapp Multi Device',  
+              body: '© Vermeil - MD', 
+              description: 'Made With ❤️ Iyann', 
+              mediaType: 2,  
+            thumbnail: await (await fetch('https://telegra.ph/file/eb1ad2fdd2b96199e622d.jpg')).buffer(), 
+           mediaUrl: `https://www.youtube.com/channel/IyannKz` 
+          }  
+       }  
+      })
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu server sedang error', m)
     throw e
