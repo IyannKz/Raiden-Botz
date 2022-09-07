@@ -196,7 +196,7 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/eb1
               body: '© Vermeil - MD', 
               description: 'Made With ❤️ Iyann', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/eb1ad2fdd2b96199e622d.jpg')).buffer(), 
+            thumbnail: await (await fetch('https://telegra.ph/file/8ceb0b224d522c031fd09.jpg')).buffer(), 
            mediaUrl: `https://www.youtube.com/channel/IyannKz` 
           }  
        }  
