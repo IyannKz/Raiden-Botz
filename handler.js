@@ -683,9 +683,27 @@ module.exports = {
             // } catch (e) {
             //     console.log(m, m.quoted, e)
             // }
-            if (opts['autoread']) await this.chatRead(m.chat, m.isGroup ? m.sender : undefined, m.id || m.key.id).catch(() => { })
-            let quequeIndex = this.msgqueque.indexOf(m.id || m.key.id)
-            if (opts['queque'] && m.text && quequeIndex !== -1) this.msgqueque.splice(quequeIndex, 1)
+             let settings = global.db.data.settings[this.user.jid]
+            if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
+            if (settings) {
+                if (!('self' in settings)) settings.self = false
+                if (!('autoread' in settings)) settings.autoread = true
+                if (!('restrict' in settings)) settings.restrict = false
+                if (!'jadibot' in settings) settings.jadibot = false
+                if (!('autorestart' in settings)) settings.autorestart = false
+                if (!('restartDB' in settings)) settings.restartDB = 0
+             
+            } else global.db.data.settings[this.user.jid] = {
+                self: false,
+                autoread: true,
+                jadibot: false,
+                restrict: false,
+                autorestart: false,
+                restartDB: 0
+            }
+        } catch (e) {
+            console.error(e)
+        }
         }
     },
     async participantsUpdate({ id, participants, action }) {
