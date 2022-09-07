@@ -171,27 +171,13 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     let fetch = require('node-fetch') 
-const ftroli = {
-	key : {
-                          participant : '0@s.whatsapp.net'
-                        },
-       message: {
-                    orderMessage: {
-                            itemCount : 9999999999999,
-                            status: 1,
-                            surface : 1,
-                            message: 'IyannKz Official',
-                            orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg')).buffer(),
-                            sellerJid: '0@s.whatsapp.net'
-          
-                          }
-                        }
-                      }
+let fkon = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
+  
+    const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
 await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/4b86f1fa3eb668132195b.jpg')).buffer(),  '*────────[ DASBOARD ]────────*', text, 'DONASI', '.donasi', m, {  
-      quoted: ftroli,  
+      /*quoted: ftroli,  
       contextInfo: { forwardingScore: 99999, isForwarded: true,  
-          /*externalAdReply: {  showAdAttribution: true, 
+          externalAdReply: {  showAdAttribution: true, 
               title: 'Bot Wahatsapp Multi Device',  
               body: '© Raiden - MD', 
               description: 'Made With ❤️ IyannKz', 
@@ -200,7 +186,7 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file
            mediaUrl: ``
           }  
        }  
-      })
+      })*/
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu server sedang error', m)
     throw e
