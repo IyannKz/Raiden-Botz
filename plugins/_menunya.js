@@ -190,8 +190,8 @@ const ftroli = {
                       }
 await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/4b86f1fa3eb668132195b.jpg')).buffer(),  '*────────[ DASBOARD ]────────*', text, 'DONASI', '.donasi', m, {  
       quoted: ftroli,  
-      /*contextInfo: { //forwardingScore: 99999, isForwarded: true,  
-          externalAdReply: {  showAdAttribution: true, 
+      contextInfo: { forwardingScore: 99999, isForwarded: true,  
+          /*externalAdReply: {  showAdAttribution: true, 
               title: 'Bot Wahatsapp Multi Device',  
               body: '© Raiden - MD', 
               description: 'Made With ❤️ IyannKz', 
