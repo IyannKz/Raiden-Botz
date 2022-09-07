@@ -189,18 +189,7 @@ const ftroli = {
                         }
                       }
 await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/4b86f1fa3eb668132195b.jpg')).buffer(),  '*────────[ DASBOARD ]────────*', text, 'DONASI', '.donasi', m, {  
-      quoted: ftroli,  
-      contextInfo: { //forwardingScore: 99999, isForwarded: true,  
-          externalAdReply: {  showAdAttribution: true, 
-              title: 'Bot Wahatsapp Multi Device',  
-              body: '© Raiden - MD', 
-              description: 'Made With ❤️ IyannKz', 
-              mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
-          }  
-       }  
-      })
+
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu server sedang error', m)
     throw e
