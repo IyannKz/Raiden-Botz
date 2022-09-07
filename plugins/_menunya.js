@@ -196,8 +196,8 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file
               body: '© Raiden - MD', 
               description: 'Made With ❤️ IyannKz', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999`*/ 
+            thumbnail: await (await fetch('')).buffer(), 
+           mediaUrl: ``
           }  
        }  
       })
